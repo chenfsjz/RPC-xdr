@@ -3,19 +3,20 @@ Implement the two function with RPC and use the XDR encode/decode the params
 
 There are two source files of socket-client.c and socket-server.c
 
-use commands to compire the socket server c file
+<1> use commands to compire the socket server c file
 
-  gcc server.c -o socket-server
+        gcc server.c -o socket-server
         
-compire the socket client c file 
+<2> compire the socket client c file 
 
-  gcc client.c -o socket-client
+        gcc client.c -o socket-client
         
-start the server:
+<3> start the server:
+          
+    ./socket-server.out
 
-
-start the client
-
-select the function and input your params
-        
+<4> start the client
+    
+    ./socket-client.
+<5> select the function and input your params       
         
