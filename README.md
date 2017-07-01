@@ -17,6 +17,6 @@ There are two source files of socket-client.c and socket-server.c
 
 <4> start the client
     
-    ./socket-client.
+    ./socket-client
 <5> select the function and input your params       
         
